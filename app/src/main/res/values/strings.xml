@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FighterSoft</string>
+    <string name="loginText">Already have an account? <u>Login</u></string>
+    <string name="sign_up">sign up</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="signupText">New here? <u>Create a new account</u></string>
+    <string name="email">email</string>
+    <string name="settings">Settings</string>
+    <string name="update">Update Login Info</string>
+    <string name="colorSwitch">Switch Color Palette</string>
+    <string name="deleteAccount">Delete Account</string>
+</resources>

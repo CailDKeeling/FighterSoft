@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "107058477123",
+    "project_id": "fightersoft-7d03e",
+    "storage_bucket": "fightersoft-7d03e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107058477123:android:be9b2315f060ea5ed87cf6",
+        "android_client_info": {
+          "package_name": "com.example.fightersoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107058477123-na2b1cnnulomi39aegs5gosnr3999ge5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuWwwNfoTxWsVK1W-VHQUjwJ3JjeXGA_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107058477123-na2b1cnnulomi39aegs5gosnr3999ge5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
