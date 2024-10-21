@@ -4,7 +4,7 @@ Readme instructions for how to run code for Project FighterSoft as of 5/6/2022.
 Project FighterSoft was created in Android Studio version 2021.1.1 Patch 3 for Windows 64-bit.
 This application is to run on android devices with a minimum SDK of API level 23: Android 6.0.
 
-Latest version available from https://github.com/ChonrevC/FighterSoft
+
 
 
 Instructions:
